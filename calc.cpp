@@ -28,7 +28,7 @@ int main() {
 
     case 4:     // code
 
-                    break;
+    result = a / b;   break;
 
   }
 
