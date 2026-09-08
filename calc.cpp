@@ -30,6 +30,9 @@ int main() {
 
     result = a / b;   break;
 
+    case 5:
+
+    result = pow(a, b);   break;
   }
 
   cout << "Результат = " << result;
