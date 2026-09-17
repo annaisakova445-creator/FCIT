@@ -1,0 +1,4 @@
+calc.exe
+*.exe
+*.o
+c++
